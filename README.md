@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aziemma
-- 👀 I’m interested in python
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 In love with Machine learning
+- 🌱 enjoys the nitty gritty of data
 - 📫 How to reach me aziloveemma@gmail.com
 
 <!---
