@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aziemma
-- 👀 In love with Machine learning
-- 🌱 enjoys the nitty gritty of data
+- 👀 ML / AI
+- 🌱 enjoys the nitty gritty of AI
 - 📫 How to reach me aziloveemma@gmail.com
 
 <!---
